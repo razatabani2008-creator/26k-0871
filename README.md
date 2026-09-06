@@ -1,4 +1,4 @@
-![Profile Picture](WhatsApp%20Image%202026-09-06%20at%11.36.06%20AM.jpeg)
+![Profile Picture](profile.jpg)
 
 # Muhammad Raza Tabani
 
