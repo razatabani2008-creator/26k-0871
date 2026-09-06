@@ -8,9 +8,8 @@
 
 ## Skills
 - Python Programming
-- C++ Development
-- Git & GitHub Version Control
-
+- vibe engineering with Claude and GitHub copilot
+  
 ## Projects
 - **Console-Based Applications**: Developed efficient logic and algorithms using C++ and Python.
 - **Academic Support Tools**: Automated custom worksheet and practice paper formatting.
